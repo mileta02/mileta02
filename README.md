@@ -11,6 +11,7 @@ I hold a Bachelor's Degree in Organizational Sciences from the **Faculty of Orga
 **Primary**
 - C# · ASP.NET Core Web API
 - EF Core · MySQL
+- Java · Spring Boot
 
 **Learning / Exploring**
 - Node.js 
